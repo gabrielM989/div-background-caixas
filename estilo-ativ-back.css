@@ -1,0 +1,53 @@
+
+.titulo {
+    height: 100px;
+    width: 700px;
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    background-size: cover;
+}
+
+.cp {
+    height: 450px;
+    width: 700px;
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+    background-color: red;
+
+}
+
+.c1 {
+    height: 150px;
+    width: 550px;
+    border: 1px solid black;
+    margin: 50px 70px 50px;
+    text-align: center;
+    background-color: green;
+
+}
+
+.c2 {
+    height: 150px;
+    width: 550px;
+    border: 1px solid black;
+    margin: 50px 70px 50px;
+    text-align: center;
+    background-color: green;
+
+}
+
+.c3 {
+    height: 50px;
+    width: 700px;
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    text-align: center;
+
+}
